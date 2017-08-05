@@ -1,16 +1,21 @@
 ### Description
     The purpose of this python program for the audience is to view your favorite movie trailers with basic information. 
-
+### Dependencies 
+    * Python 2.7 [here](https://www.python.org/download/releases/2.7/ "Python Download")
+    * Git [here](https://git-scm.com/downloads) --optional this is need for the command git clone 
+    **you may just download the repository *zip file *Extract *execute entertainment.py *execute freshtomatoes.py** 
 ### Install
-    **Simply clone this git repository ([here]https://github.com/nolansingroy/Movie_Website.git)**
-## Run the program 
- To run the program *1. simply clone this git repositpory
-                    *2. excute entertainment.py
-                    *3. click on the generated html file 
-## Example `git clone https://github.com/nolansingroy/Movie_Website.git`
+    ** Simply clone this git repository [here](https://github.com/nolansingroy/Movie_Website) **
+### Run the program 
+    To run the program 
+                    * 1. simply clone this git repositpory
+                    * 2. excute entertainment.py
+                    * 3. click on the generated html file 
+## Example
+ ```git clone https://github.com/nolansingroy/Movie_Website.git```
 
-##edit
-To edit the program you may refactor entertainment.py's instances of media.py. The media.py hold the parameters of (title, storyline, picture_URL, youtube_trailer_url)
+## Edit
+    To edit the program you may refactor entertainment.py's instances of media.py. The media.py hold the parameters of (title, storyline, picture_URL, youtube_trailer_url)
 
 ## How it works
     The entertainment.py file generates a website (.html file) using freshtomatoes.py with the specific movie trailers and basic information pulling from the parent class media.py.
