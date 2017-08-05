@@ -33,8 +33,13 @@ print(hp1.storyline)
 prometheus = media.Movie("Prometheus", "Two Scientist on the search for the Engineers"
                          ,"https://vignette1.wikia.nocookie.net/avp/images/7/7f/Prometheus_Poster.png/revision/latest?cb=20170125135410"
                          ,"https://www.youtube.com/watch?v=mDqLG28m_Eo")
+
+danceOfReality = media.Movie("La danza de la realidad",
+                             "The Dance of Reality reflects Jodorowsky's philosophy that reality is not objective but rather a dance created by our own imaginations.",
+                             "http://danceofrealitymovie.com/wp-content/uploads/2014/02/The-Dance-of-Reality-Poster-1000W.jpg",
+                             "https://www.youtube.com/watch?v=GMM5tZOsr3Q")
 print(prometheus.storyline)
-movies = [toy_story, avatar, xmen, ava, hp1, prometheus]
+movies = [toy_story, avatar, xmen, ava, hp1, prometheus,danceOfReality]
 
 fresh_tomatoes.open_movies_page(movies)
 print(media.Movie.VALID_RATINGS)
