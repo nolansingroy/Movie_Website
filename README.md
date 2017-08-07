@@ -1,12 +1,13 @@
 ### Description
     The purpose of this python program for the audience is to view your favorite movie trailers with basic information. 
 ### Dependencies 
-    Python 2.7 [here](https://www.python.org/download/releases/2.7/ "Python Download")
-    Git [here](https://www.git-scm.com/downloads) --optional this is need for the command git clone 
+
+Python 2.7 [here](https://www.python.org/download/releases/2.7/ "Python Download")
+Git [here](https://www.git-scm.com/downloads) --optional this is need for the command git clone 
     **you may just download the repository *zip file *Extract *Execute entertainment.py *Execute freshtomatoes.html** 
      
 ### Install
-        Simply clone this git repository [here](https://www.github.com/nolansingroy/Movie_Website)
+Simply clone this git repository [here](https://github.com/nolansingroy/Movie_Website)
 ### Run the program 
     To run the program 
                     * 1. simply clone this git repositpory
