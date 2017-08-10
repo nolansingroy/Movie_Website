@@ -1,5 +1,5 @@
 ### Description
-    The purpose of this python program for the audience is to view your favorite movie trailers with basic information. 
+    The purpose of this python program for the audience, is to view your favorite movie trailers with basic information such as title, storyline on commandline, cover image, and youtube trailer.  
 ### Dependencies 
 Python 2.7 [here](https://www.python.org/download/releases/2.7/ "Download")
 
@@ -11,7 +11,7 @@ Git [here](https://www.git-scm.com/downloads) --optional this is need for the co
 ### Run the program 
     To run the program 
                     * 1. excute entertainment.py
-                    * 2. if the html is not already loaded, then click on the generated html file (freshtomatoes.html) 
+                    * 2. if the html is not already loaded in the default browser, then click on the generated html file (freshtomatoes.html) 
 ## Example
  ```git clone https://github.com/nolansingroy/Movie_Website.git```
 
