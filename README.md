@@ -4,7 +4,7 @@
 Python 2.7 [here](https://www.python.org/download/releases/2.7/ "Download")
 
 Git [here](https://www.git-scm.com/downloads) --optional this is need for the command git clone 
-    **you may just download the repository *zip file *Extract *Execute entertainment.py *Execute freshtomatoes.html** 
+    **_you may just download the repository *zip file *Extract it then *Execute entertainment.py then finally *Execute freshtomatoes.html_** 
      
 ### Install
     Simply clone this git repository
