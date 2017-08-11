@@ -1,5 +1,6 @@
 ### Description
-    The purpose of this python program for the audience, is to view your favorite movie trailers with basic information such as title, storyline on commandline, cover image, and youtube trailer.  
+    The purpose of this python program for the audience, is to view your favorite movie trailers with basic information such as title, storyline on commandline, cover image, and youtube trailer. Include in this repository movie file is two folders, one named the "Art of Percption" and the other named the "Art of Perception_Compiled". The "Art of Perception" folder is used for testing purposes. You may just open the art of perception_compile if you wish.
+
 ### Dependencies 
 Python 2.7 [here](https://www.python.org/download/releases/2.7/ "Download")
 
@@ -9,7 +10,7 @@ Git [here](https://www.git-scm.com/downloads) --optional this is need for the co
 ### Install
     Simply clone this git repository
 ### Run the program 
-    To run the program 
+    To run the program, from within the "Art of Perception" folder: 
                     * 1. excute entertainment.py
                     * 2. if the html is not already loaded in the default browser, then click on the generated html file (freshtomatoes.html) 
 ## Example
@@ -20,6 +21,7 @@ Git [here](https://www.git-scm.com/downloads) --optional this is need for the co
 
 ## How it works
     The entertainment.py file generates a website (.html file) using freshtomatoes.py with the specific movie trailers and basic information pulling from the parent class media.py.
+
 ### License
     MIT License
 
