@@ -12,12 +12,12 @@ Git [here](https://www.git-scm.com/downloads) --optional this is need for the co
 ### Run the program 
     To run the program, from within the "Art of Perception" folder: 
                     * 1. Excute entertainment.py --May need to do this twice to see the html
-                    * 2. if the html is not already loaded in the default browser, then click on the generated html file (freshtomatoes.html) 
+                    * 2. If the html is not already loaded in the default browser, then click on the generated html file (freshtomatoes.html) 
 ## Example
  ```git clone https://github.com/nolansingroy/Movie_Website.git```
 
 ## Edit
-    To edit the program you may refactor entertainment.py's instances of media.py. The media class contains string parameters of (title, storyline, picture_URL, youtube_trailer_url)
+    To edit the program you may refactor entertainment.py's instances of media.py. The media class contains string parameters of (title, storyline, picture_URL, youtube_trailer_url). Be sure to check your code is up to python standards! During the development of this program http://pep8online.com was very useful. 
 
 ## How it works
     The entertainment.py file generates a website (.html file) using freshtomatoes.py with the specific movie trailers and basic information pulling from the parent class media.py.
