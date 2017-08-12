@@ -11,7 +11,7 @@ Git [here](https://www.git-scm.com/downloads) --optional this is need for the co
     Simply clone this git repository
 ### Run the program 
     To run the program, from within the "Art of Perception" folder: 
-                    * 1. excute entertainment.py
+                    * 1. Excute entertainment.py --May need to do this twice to see the html
                     * 2. if the html is not already loaded in the default browser, then click on the generated html file (freshtomatoes.html) 
 ## Example
  ```git clone https://github.com/nolansingroy/Movie_Website.git```
