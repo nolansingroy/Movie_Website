@@ -53,7 +53,7 @@ endlessPoetry = media.Movie(
     "Endless Poetry",
     "Alejandro Jodorowsky recounts his young adulthood in Chile.",
     "http://bit.do/endlesspoetry_pep8",
-    "https://www.youtube.com/watch?v=suyruCTA2I4")
+    "https://www.youtube.com/watch?v=4L3_510gM-U")
 """
 Dune Object
 """
